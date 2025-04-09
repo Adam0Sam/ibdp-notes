@@ -1,0 +1,1 @@
+Zaratrusta - 30metis, visiškai atsitraukęs nuo visuomenės, iškeliavęs į kalnus atrasti pasaulio esmę, tiesą. Taip tampa išminčiu, brandos etalonu.

@@ -1,0 +1,1 @@
+Similarly defined to [[Common Pool Resources]] and opposite to [[Public Goods]]

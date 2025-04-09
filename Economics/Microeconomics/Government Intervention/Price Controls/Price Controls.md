@@ -1,0 +1,1 @@
+While [[The Free Market|free markets]] have many virtues, there are situations where the [[Market Failure|outcomes are not optimal for all participants]]. In such situations [[Government Intervention|governments may impose]] [[Price Ceiling|price ceilings]] or [[Price Floor|price floors]]

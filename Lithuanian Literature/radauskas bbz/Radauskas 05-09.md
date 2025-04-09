@@ -1,0 +1,1 @@
+Kai gyvenimas man per painus, nuobodus, sudetingas, as ieskau budo pamatyti gyvenima nauju rakursu (atsiskleidzia [[Pasaka]], [[Girtuoklis Grįžta Namo]]). Gyvenimas yra pavidalų žaismas.

@@ -1,0 +1,1 @@
+If we can construct an argument so that each [[proof by deduction|deductive]] is an equivalence, then we will prove $A \Rightarrow B$ and $B \Rightarrow A$ ![[Pasted image 20231120175552.png]]

@@ -1,0 +1,1 @@
+Due to [[Economic Scarcity|scarcity]], **the opportunity cost** is what must be given up in order to undertake any activity or economic exchange, specifically the next best alternative to the use of the money or time.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"49653cf45c302814","type":"file","file":"Lithuanian Literature/Estetizmas/Estetizmas.md","x":880,"y":-440,"width":400,"height":400},
+		{"id":"d379a49a09589ff3","type":"file","file":"Lithuanian Literature/Apšvieta/Racionalioji Apšvieta.md","x":-300,"y":-200,"width":400,"height":400},
+		{"id":"b57b963e0f658871","type":"file","file":"Lithuanian Literature/Realizmas/Realizmas.md","x":240,"y":-480,"width":400,"height":400},
+		{"id":"17ce7ebdb29bf7c9","type":"file","file":"Lithuanian Literature/Romantizmas/Romantizmas.md","x":240,"y":120,"width":400,"height":400},
+		{"id":"ad9fe61487429546","type":"file","file":"Lithuanian Literature/Neoromantizmas/Neoromantizmas.md","x":240,"y":640,"width":400,"height":400},
+		{"id":"6fff67782504b45b","x":-300,"y":-880,"width":400,"height":400,"type":"file","file":"Lithuanian Literature/Patarimai Rašant.md"}
+	],
+	"edges":[
+		{"id":"80a73da21ec54795","fromNode":"17ce7ebdb29bf7c9","fromSide":"right","toNode":"49653cf45c302814","toSide":"left"},
+		{"id":"faefb3fa9b1429b0","fromNode":"d379a49a09589ff3","fromSide":"right","toNode":"17ce7ebdb29bf7c9","toSide":"left"},
+		{"id":"c09dd67c6a2e869a","fromNode":"17ce7ebdb29bf7c9","fromSide":"bottom","toNode":"ad9fe61487429546","toSide":"top"},
+		{"id":"e414819eb5a9503b","fromNode":"d379a49a09589ff3","fromSide":"right","toNode":"b57b963e0f658871","toSide":"left"},
+		{"id":"38cb257f1984399e","fromNode":"b57b963e0f658871","fromSide":"right","toNode":"49653cf45c302814","toSide":"left"}
+	]
+}

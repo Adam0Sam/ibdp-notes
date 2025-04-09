@@ -1,0 +1,1 @@
+If $\lor$ stands for "*$p$ or $q$, or both*", then the exclusive or operator $\oplus$ stands for "*$p$ or $q$, but not both*"

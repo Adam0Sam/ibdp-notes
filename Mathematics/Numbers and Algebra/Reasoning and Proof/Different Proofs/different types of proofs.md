@@ -1,0 +1,7 @@
+#### [[proof by deduction]]
+#### [[proof by equivalence]]
+#### [[proof by exhaustion]]
+#### [[disproof by counter example]]
+#### [[proof by contrapositive]]
+#### [[proof by contradiction]]
+#### [[proof by mathematical induction]]

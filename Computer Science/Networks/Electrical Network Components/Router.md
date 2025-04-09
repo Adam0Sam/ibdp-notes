@@ -1,0 +1,1 @@
+A router is a more sophisticated device than both a [[hub]] and a [[switch]]. Its use is to join multiple [[networks]] and serve as an intermediary between these networks so that data can be exchanged effectively and efficiently between devices in the different networks.

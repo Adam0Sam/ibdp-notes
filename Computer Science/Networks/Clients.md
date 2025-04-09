@@ -1,0 +1,1 @@
+A client can either be a computer system or a software application that requests a service from a [[Servers|server]] connected to the same network.

@@ -1,0 +1,1 @@
+Dynamic RAM (DRAM) is preferred for the main RAM of a computer system, as it is slower but much less expensive ( #todo in what regard?) than [[SRAM]].

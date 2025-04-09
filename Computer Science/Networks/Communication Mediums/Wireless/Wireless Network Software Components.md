@@ -1,0 +1,6 @@
+1. **DHCP** - Dynamic Host Configuration Protocol - allows a server to automatically assign an IP address to a client device. It is very efficient and convenient to let the router automatically assign IP addresses to devices
+2. **Firewall** - a security system that determines what data is permitted to enter and/or leave a network/device
+3. **SSID** - Service Set Identification is a set of 32 case sensitive alphanumeric characters. It is used to differentiate one [[WLAN]] from another.
+4. **NIC Drivers** - device driver for the [[Wireless Network Hardware Components|NIC card]], it operates/controls the NIC card, acts as an intermediary between the wireless card and a device's applications/[[Operating System|OS]]
+5. **WAP** - Wireless Application Protocol specifies a set of protocols for accessing information over a *mobile* wireless network. The WAP protocol supports most wireless networks and is supported by most [[Operating System|operating systems]]. Most devices in Europe and the USA no longer need WAP.
+6. Web Browser (self-explanatory)

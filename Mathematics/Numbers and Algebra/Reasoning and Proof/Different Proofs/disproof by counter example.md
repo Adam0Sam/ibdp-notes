@@ -1,0 +1,1 @@
+One single counter example which shows a general statement to be false, is sufficient to disprove the statement.

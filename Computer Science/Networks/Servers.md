@@ -1,0 +1,1 @@
+A server is a computer system or software application that provides a service to [[Clients|clients]] connected to the same network. 

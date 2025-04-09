@@ -1,0 +1,1 @@
+A system is *sustainable* when it is able to endure in its current form indefinitely for generation after generation

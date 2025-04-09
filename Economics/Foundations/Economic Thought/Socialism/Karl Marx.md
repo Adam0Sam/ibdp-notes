@@ -1,0 +1,1 @@
+One of the figureheads of [[Socialism]] in the 19th century

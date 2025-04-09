@@ -1,0 +1,1 @@
+The short run is defined as the **fixed capital** and **land** period.

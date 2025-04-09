@@ -1,0 +1,1 @@
+The concept of emissivity compares the power of the thermal radiation emitted by a surface (from unit area) to that of a [[Black Bodies|perfect black body]] at the same temperature ($\sigma AT^4$).$$\text{emissivity} = \frac{\text{power radiated per unit area}}{\sigma AT^4}$$

@@ -1,0 +1,1 @@
+An intranet is the broad term for a collection of private computer networks within an organizational unit that utilizes standard network protocols. (can be considered as the private analogy to the [[Internet]])

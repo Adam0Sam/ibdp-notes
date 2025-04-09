@@ -1,0 +1,1 @@
+A [[Classical Economics|classical economist]], who formulated [[Say's Law]]

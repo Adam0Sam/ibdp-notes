@@ -1,0 +1,1 @@
+Protectionism, on a surface level, is a set of policy and ideas that oppose free trade, usually with some [[Arguments for Protectionism|valid justification]]

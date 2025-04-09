@@ -1,0 +1,1 @@
+The law says that as the output of a particular product *increases*, the [[opportunity cost]] of producing additional *units rises*.

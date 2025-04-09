@@ -1,0 +1,1 @@
+A simple term is either a propositional variable or the negation of a propositional variable

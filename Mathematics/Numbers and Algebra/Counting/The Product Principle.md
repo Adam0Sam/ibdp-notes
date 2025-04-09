@@ -1,0 +1,1 @@
+If there are $m$ different ways of performing an operation, and for each of these there are $n$ different ways of performing a second **independent** operation, then there are $mn$ different ways of performing the two operations in succession.
